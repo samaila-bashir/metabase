@@ -14,13 +14,11 @@
 .idea/
 .nrepl-port
 .portal
-.vscode
 /*.h2.db
 /*.lock.db
 /*.mv.db
 /*.trace.db
 /.babel_cache
-/.env
 /.lein-env
 /.lein-failures
 /.lein-plugins
@@ -116,3 +114,7 @@ modules/drivers/*/.lsp/*
 
 # swc
 .swc/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
